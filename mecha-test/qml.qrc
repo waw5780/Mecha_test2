@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FeederMinimumFindSettingTab.qml</file>
+        <file>FeederPerformanceTestSettingTab.qml</file>
+    </qresource>
+</RCC>
